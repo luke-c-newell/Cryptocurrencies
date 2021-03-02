@@ -2,7 +2,7 @@
 ### Preprocessing the Data and running Principal Component Analysis
 ![crypto_df](https://github.com/luke-c-newell/Cryptocurrencies/blob/main/images/crypto_df.png "crypto_df.png")
 ### Clustering Crytocurrencies Using K-Means
-![elbow_curve](https://github.com/luke-c-newell/Cryptocurrencies/blob/main/images/elbow_curve.png "elbow_curve.png")
+![elbow_plot](https://github.com/luke-c-newell/Cryptocurrencies/blob/main/images/elbow_plot.png "elbow_plot.png")
 ### Create a new DataFrame including predicted clusters and cryptocurrencies
 ![clustered_df](https://github.com/luke-c-newell/Cryptocurrencies/blob/main/images/clustered_df.png "clustered_df.png")
 ### 3D-Scatter plot with Clusters
